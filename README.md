@@ -1,2 +1,2 @@
-# Project-Euler
-Solutions to popular math/algorithmic problems from Project Euler
+# Project Euler Solutions
+My solutions to math/algorithmic problems from [https://projecteuler.net/](Project Euler).
