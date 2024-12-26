@@ -13,5 +13,5 @@ int main() {
     int N = 20;
     int ans = 1;
     for (int i = 1; i <= 20; ++i) ans = lcm(ans, i);
-    std::cout << ans << std::endl;
+    std::cout << ans; // Answer: 232792560
 }

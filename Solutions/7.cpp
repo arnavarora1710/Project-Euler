@@ -19,7 +19,7 @@ int main() {
         if (is_prime[i]) {
             N--;
             if (N == 0) {
-                std::cout << i;
+                std::cout << i; // Answer: 104743
                 break;
             }
         }
