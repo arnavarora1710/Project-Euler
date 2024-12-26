@@ -15,5 +15,5 @@ int main() {
         while (N % (i+2) == 0) ans = i+2, N /= i+2;
     }
     if (N > 4) ans = N;
-    std::cout << ans;
+    std::cout << ans; // Answer: 6857
 }
